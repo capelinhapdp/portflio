@@ -2,7 +2,7 @@ console.log('entro')
 "use strict";
 
 const body = document.body;
-const bgColorsBody = ["	#000000", "	#000000", "	#000000", "	#000000", "	#000000"];
+const bgColorsBody = ["	#0D0D0D", "	#0D0D0D", "	#0D0D0D", "	#0D0D0D", "	#0D0D0D"];
 const menu = body.querySelector(".menu");
 const menuItems = menu.querySelectorAll(".menu__item");
 const menuBorder = menu.querySelector(".menu__border");
