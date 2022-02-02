@@ -370,6 +370,14 @@ body {
     color: #ffffff;
 }
 
+.icon>svg {
+    color: #000;
+}
+
+.icon:hover>svg {
+    color: #fff;
+}
+
 .wrapper .twitter:hover,
 .wrapper .twitter:hover .tooltip,
 .wrapper .twitter:hover .tooltip::before {
