@@ -1,4 +1,3 @@
-console.log('entro')
 "use strict";
 
 const body = document.body;
