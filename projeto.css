@@ -1,0 +1,37 @@
+.card-projetos {
+    width: 95%;
+    position: relative;
+    width: 800px;
+    margin: auto;
+    background-color: rgb(185, 0, 40);
+    box-shadow: 3px 2px 5px rgba (17, 17, 17, 0.55);
+    backdrop-filter: blur (8px);
+    -webkit-backdrop-filter: blur (8px);
+    padding: 25px;
+    border-radius: 25px;
+    height: 400px;
+    transition: all .3s;
+    display: flex;
+    align-items: center;
+}
+
+.img-projeto {
+    width: 300px;
+    display: flex;
+    height: 300px;
+    position: absolute;
+    transform: translateX(-80px);
+    border-radius: 20px;
+    border: 1px solid blue;
+}
+
+.card-info-projeto {
+    margin-left: 275px;
+}
+
+
+/* .img-projeto>img {
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+} */
